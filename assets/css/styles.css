@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --bg-color: #131517;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: ;
+    font-size: 1.6rem;
+    background: var(--bg-color);
+}
+
+input,
+textarea,
+button,
+select {
+    font-family: inherit;
+    font-size: inherit;
+}
+
+a {
+    text-decoration: none;
+}
